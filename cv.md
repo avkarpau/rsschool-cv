@@ -1,17 +1,36 @@
-CV
+# CV
+
+### Name:
 
 Aliaksandr Karpau
 
-Contacts:
-Github: @avkarpau
-Email: aliaksandrkarpau@gmail.com
+### Contacts:
 
-Skills: in progress.
+* Github: *@avkarpau*
+* Email: *aliaksandrkarpau@gmail.com*
 
-Code: in progress.
+### About me:
 
-Experience: none.
+add later
 
-Education: RSschool JS / FRONT-END. STAGE 0
+### Skills: 
 
-English: Ulearn English School, Dublin
+* In progress.
+
+### Code: 
+
+* In progress.
+
+### Experience: 
+
+* None.
+
+### Education: 
+
+* Gymnasium №3, Mozyr, Belarus (1999-2010)
+* Belarusian State University of Informatics and Radioelectronics, Minsk, Belarus (2010-2015)
+* RSschool JS / FRONT-END. STAGE 0 (2021-)
+
+### English: 
+
+* Ulearn English School, Dublin, Ireland (2017)
